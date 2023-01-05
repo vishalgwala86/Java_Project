@@ -1,1 +1,1 @@
-# Java_Project
+Student Information Project
